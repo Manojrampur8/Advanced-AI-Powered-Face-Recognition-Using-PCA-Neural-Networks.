@@ -50,5 +50,5 @@ python src/pca_model.py
 ---
 
 ## 👨‍💻 Author
-Manoj Rampur  
+Manoj S  
 AI & ML Engineer

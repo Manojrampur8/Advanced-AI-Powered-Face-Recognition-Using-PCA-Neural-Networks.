@@ -52,3 +52,20 @@ python src/pca_model.py
 ## 👨‍💻 Author
 Manoj S  
 AI & ML Engineer
+
+---
+
+## 📊 Results
+- Achieved high classification accuracy using PCA + ANN
+- Reduced dimensionality significantly using eigenfaces
+- Improved training efficiency
+
+  ---
+
+  ## 🏆 Conference Presentation
+
+This project was presented at an IEEE International Conference
+held at GM University, Davanagere, Karnataka on November 6th.
+
+The work focuses on PCA-based dimensionality reduction
+combined with ANN classification for efficient face recognition.

@@ -64,8 +64,8 @@ AI & ML Engineer
 
   ## 🏆 Conference Presentation
 
-This project was presented at an IEEE International Conference
-held at GM University, Davanagere, Karnataka on November 6th.
+IEEE Conference presented Face Recognition system using PCA (Eigenfaces) and ANN for efficient classification.
 
 The work focuses on PCA-based dimensionality reduction
 combined with ANN classification for efficient face recognition.
+

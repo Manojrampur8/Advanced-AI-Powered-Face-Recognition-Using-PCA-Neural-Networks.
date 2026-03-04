@@ -43,8 +43,8 @@ This project is based on the research paper titled **"Advanced Hybrid Face Recog
 
 The research work was successfully presented at the **International Conference – CONFLUENCE 2025** held at **GM University, Davanagere (6–8 November 2025)**.
 
-### Conference Certificate
-![Conference Certificate](images/conference_certificate.jpg)
+## Conference Certificate
+![Conference Certificate](images/conference_certificate.jpeg)
 
 ## Author
 Manoj S  

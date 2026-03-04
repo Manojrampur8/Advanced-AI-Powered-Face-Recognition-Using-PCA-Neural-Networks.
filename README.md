@@ -12,11 +12,32 @@ The system extracts important facial features from images and improves recogniti
 - Scikit-learn
 - Matplotlib
 
+## Dataset
+This project uses the **AT&T ORL Face Dataset**.
+Dataset Details:
+- 40 individuals
+- 10 images per person
+- Total images: 400
+- Grayscale facial images
+
+Dataset Link:  
+https://cam-orl.co.uk/facedatabase.html
+
 ## Key Features
 - Face detection using OpenCV
 - Feature extraction using PCA
 - Face classification using Neural Networks
 - Improved recognition speed and accuracy
+
+## Methodology
+The system follows the following pipeline:
+1. Load face images from dataset
+2. Convert images to grayscale
+3. Resize images for uniform processing
+4. Apply Principal Component Analysis (PCA) to extract eigenfaces
+5. Generate facial feature signatures
+6. Train Artificial Neural Network classifier
+7. Perform face recognition prediction
 
 ## Project Workflow
 1. Image Dataset Collection
@@ -24,6 +45,12 @@ The system extracts important facial features from images and improves recogniti
 3. Feature Extraction using PCA
 4. Neural Network Training
 5. Face Recognition Prediction
+
+## Model Performance
+
+### Accuracy vs Number of Eigenfaces
+![Accuracy Graph](results/accuracy_vs_k.png)
+Best accuracy achieved: **97.5% using 30 principal components.**
 
 ## Applications
 - Security Systems

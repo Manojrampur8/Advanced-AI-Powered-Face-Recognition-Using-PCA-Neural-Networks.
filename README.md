@@ -77,6 +77,10 @@ The research work was successfully presented at the **International Conference â
 ## Conference Certificate
 ![Conference Certificate](images/conference_certificate.jpeg)
 
+## Notebook Version
+You can also explore the full implementation in Jupyter Notebook:
+src/face_recognition_project.ipynb
+
 ## Author
 Manoj S  
 AI & ML Enthusiast

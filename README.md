@@ -5,6 +5,10 @@ This project implements an advanced face recognition system using Principal Comp
 
 The system extracts important facial features from images and improves recognition accuracy while reducing computational complexity.
 
+## System Architecture
+The following diagram shows the workflow of the AI-based face recognition system.
+![System Architecture](images/architecture_diagram.png)
+
 ## Technologies Used
 - Python
 - OpenCV

@@ -76,8 +76,8 @@ The conference focused on **Advancing Sustainability through Multidisciplinary R
 ## Conference Presentation
 
 This project is based on the research paper titled **"Advanced Hybrid Face Recognition Using PCA and Neural Networks for Real-Time Applications"**.
-
 The research work was successfully presented at the **International Conference – CONFLUENCE 2025** held at **GM University, Davanagere (6–8 November 2025)**.
+![Research](https://img.shields.io/badge/Research-Published-blueviolet)
 
 ## Conference Certificate
 ![Conference Certificate](images/conference_certificate.jpeg)

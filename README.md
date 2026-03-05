@@ -1,4 +1,9 @@
 # Advanced AI-Powered Face Recognition using PCA & Neural Networks
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## Project Overview
 This project implements an advanced face recognition system using Principal Component Analysis (PCA) for dimensionality reduction and Artificial Neural Networks (ANN) for classification.
